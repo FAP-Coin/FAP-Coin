@@ -1,7 +1,7 @@
 // db.php
 <?php
 $host = 'localhost';
-$dbname = 'FAPCoin';  
+$dbname = 'fapcoin';  
 $username = 'root';  
 $password = '';  
 
